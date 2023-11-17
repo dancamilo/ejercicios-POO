@@ -1,20 +1,35 @@
-.contenedor-graficos {
+.contenedor{
     display: flex;
     justify-content: space-between;
 }
   
 .grafico1{
-    width: 800px;
+    width: 700px;
+    padding: 70px;
+    border: solid 2px #000000;
+    margin: 50px;
 }
 
 .grafico2{
-    width: 800px;
+    width: 700px;
+    padding: 70px;
+    border: solid 2px #000000;
+    margin: 50px;
+}
 }
 
 .grafico3{  
-    width: 800px;
+    width: 700px;
+    padding: 70px;
+    border: solid 2px #000000;
+    margin: 50px;
+}
 }
 
 .grafico4 {
-    width: 800px;
+    width: 500px;
+    padding: 70px;
+    border: solid 2px #000000;
+    margin: 50px;
+}
 }
