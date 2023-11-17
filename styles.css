@@ -1,0 +1,20 @@
+.contenedor-graficos {
+    display: flex;
+    justify-content: space-between;
+}
+  
+.grafico1{
+    width: 800px;
+}
+
+.grafico2{
+    width: 800px;
+}
+
+.grafico3{  
+    width: 800px;
+}
+
+.grafico4 {
+    width: 800px;
+}
